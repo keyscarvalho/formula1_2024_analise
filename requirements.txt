@@ -1,0 +1,7 @@
+```txt
+fastf1>=3.2.6
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+streamlit
