@@ -27,7 +27,7 @@ git clone https://github.com/seu-usuario/f1_analysis_2024.git
 cd f1_analysis_2024
 
 ````
-1. **Crie o ambiente:**
+2. **Crie o ambiente:**
 ```bash
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
